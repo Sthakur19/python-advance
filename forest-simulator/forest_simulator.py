@@ -51,4 +51,3 @@ class Forest:
             statusReport.append(f"There is a {tr.get_height()} tall FoxtailPine in the forest.")
         return statusReport
 
-
